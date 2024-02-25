@@ -1,0 +1,14 @@
+{
+  "name": "members-only",
+  "version": "0.0.0",
+  "description": "I little message board with user authentication where all the info is stored in the database",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Nazar",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.2.0"
+  }
+}
